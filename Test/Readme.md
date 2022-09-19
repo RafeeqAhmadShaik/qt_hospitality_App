@@ -1,0 +1,1 @@
+Added discription for qt_hospitality app 
